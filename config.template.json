@@ -1,0 +1,10 @@
+{
+    "api_keys": ["your_api_key_here"],
+    "poi_threshold": 180,
+    "request_interval": 0.35,
+    "max_workers": 3,
+    "selected_districts": [],
+    "selected_poi_types": [],
+    "coord_conversions": [],
+    "selected_fields": ["id", "name", "type", "typecode", "address", "location", "pname", "cityname", "adname"]
+}

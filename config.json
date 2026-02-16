@@ -1,0 +1,46 @@
+{
+  "api_keys": [
+    "440682xxxxxxxxxxxxxxxxxxxxxxxxxx"
+  ],
+  "poi_threshold": 180,
+  "request_interval": 0.5,
+  "max_workers": 3,
+  "selected_districts": [
+    {
+      "province": "浙江省",
+      "city": "台州市",
+      "district": "临海市",
+      "adcode": "331082"
+    }
+  ],
+  "selected_poi_types": [
+    {
+      "name": "  汽车服务>加油站>中国石油",
+      "code": "010102"
+    }
+  ],
+  "coord_conversions": [
+    "wgs84",
+    "bd09"
+  ],
+  "selected_fields": [
+    "parent",
+    "address",
+    "distance",
+    "pcode",
+    "adcode",
+    "pname",
+    "cityname",
+    "type",
+    "typecode",
+    "adname",
+    "citycode",
+    "name",
+    "location_gcj02",
+    "lng_gcj02",
+    "lat_gcj02",
+    "id",
+    "lng_wgs84",
+    "lat_wgs84"
+  ]
+}
